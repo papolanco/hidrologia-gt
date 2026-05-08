@@ -1,2 +1,2 @@
 # hidrologia-gt
-Análisis de hidrología en Guatemala para el sector eléctrico.
+Análisis de hidrología en el MER para el sector eléctrico.
